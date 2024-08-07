@@ -31,6 +31,7 @@
   "sessionContinue": "Sua sessão último login foi continuada a partir de %sec% segundos atrás.",
   "messageLogin": "Por favor use /login <senha>",
   "messageRegister": "Por favor registre-se usando /register <senha>",
+  "messageRegister2": "Por favor registre-se usando /register <senha> <senha novamente>",
   "errorRefreshProfile": "Sua conta foi modifica,por favor re-logue!",
   "errorNotRegistered": "Usuário não está registrado!",
   "kickAlreadyOnline": "Este jogador já está online!",
